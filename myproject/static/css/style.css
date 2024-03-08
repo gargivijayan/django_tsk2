@@ -1,0 +1,100 @@
+table,tr,td
+{
+    border: 1px solid rgb(202, 214, 24);
+    border-collapse:collapse;
+    padding-left: 50px;
+    
+   
+    text-align: center;
+}
+
+.button1{
+    text-align: center;
+    width: 900px;
+}
+.button2{
+    text-align: center;
+    padding-top: 10px;
+
+}
+.head1{
+    padding-left: 600px;
+    padding-top: 10px;
+}
+.employee_name{
+    margin-top: 20px;
+    padding-left: 350px;
+    
+
+    color:white;
+
+}
+.tbl{
+    margin-top: 100px;
+    width: 800px !important;
+    margin-left: 50px;
+    text-align: center;
+    color:white;
+}
+.table1{
+    color:white;
+    margin-left: 300px;
+    margin-top: 100px;
+
+    
+ 
+
+}
+.page2{
+    padding-left: 290px;
+    padding-top: 90px;
+    color: white;
+
+}
+.bg1{
+    background-image: url(../images/pic2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+.bg2{
+    background-image: url(../images/laptop-office.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.bg3{
+    background-image: url(../images/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.bg4{
+    background-image: url(../images/4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg5{
+    background-image: url(../images/fingerprint1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photos{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.main_head{
+    font-weight: bold;
+    color: white;
+}
+.main_head1{
+    font-weight: bold;
+    color:yellow;
+}
+
+
